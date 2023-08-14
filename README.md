@@ -11,6 +11,9 @@ ___
 ___
 ## Strategy
 #### **[Four Stage Architecture]**  
+
+![Modeling Overview](/assets/modeling_overview.png)
+
 **Stage 1. Extract Embedding by RetrieverLM**  
 * **RetrieverLM**: sentence-transformers/paraphrase-multilingual-mpnet-base-v2  
 * **Make Embedding:**  
